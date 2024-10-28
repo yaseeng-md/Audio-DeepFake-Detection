@@ -132,4 +132,8 @@ Run the following command to re-compute the evaluation results based on saved pr
 python metrics.py
 ```
 
+## Authors
+
+- [@04vaishnavi28](https://github.com/04vaishnavi28)
+- [@yaseeng-md](https://github.com/yaseeng-md)
 
